@@ -9,6 +9,8 @@ Implementations of common Data Structures, like Linked Lists and Dynamic Arrays 
 - Linked List Stack
 - Array Queue
 - Circular Array Queue
+- Linked List Queue
+- Binary Search Tree
 
 ## Run Commands
 - `make`: compiles code.
